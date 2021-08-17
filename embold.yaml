@@ -18,4 +18,4 @@ sources:
     - 'grunt'
     - 'library'
     - '.git'
-languages: 'JAVA'
+languages: 'JAVASCRIPT'
