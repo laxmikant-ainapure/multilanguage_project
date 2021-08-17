@@ -19,3 +19,9 @@ sources:
     - 'library'
     - '.git'
 languages: 'JAVASCRIPT,JAVA'
+modules:
+  - name: pmd
+    enabled: true
+    config:
+      - name: ruleSets
+        value: 'src/main/java/foo/Simplest.java'
